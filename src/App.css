@@ -1,3 +1,19 @@
 .App {
   text-align: center;
 }
+
+.dashboard {
+  border: 1px solid black;
+  margin: 5px;
+}
+
+.todo {
+  border: 1px solid red;
+  margin: 5px;
+}
+
+.newCard {
+  border: 1px solid green;
+  margin: 5px;
+  padding: 5px;
+}
